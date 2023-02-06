@@ -18,6 +18,7 @@ class ShareType:
     GROUP = 1
     PUBLIC_LINK = 3
     FEDERATED_CLOUD_SHARE = 6
+    TALK_CONVERSATION = 10
 
 
 class Permission:
